@@ -12,7 +12,7 @@ public class arrayclass {
 
     public static void main (String[] args) {
          
-        int a[] = {5,6,,4,5};
+        int a[] = {5,6,9,4,5};
         arrayclass obj = new arrayclass();
         obj.min(a);
 
