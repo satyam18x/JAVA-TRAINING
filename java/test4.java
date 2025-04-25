@@ -9,8 +9,7 @@ public class test4 {
                         if (str.charAt(i)==str.charAt(j))
                         {
                             System.out.println(str.charAt(i));
-                            i=str.length();
-                            break;
+                           return;
                         }
                     }
                 }
