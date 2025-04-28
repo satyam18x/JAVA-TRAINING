@@ -15,8 +15,10 @@ public class sort {
         }
 
        
-        for(int i=0;i<a.length;i++)
-        System.out.println(a[i]);
+       for (int i : a)// for(int i=0;i<a.length;i++)
+       {
+              System.out.println(i); //System.out.println(a[i]);
+       }                              
        
 
     }
