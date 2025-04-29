@@ -8,7 +8,7 @@ class student{
 
 }
 
-public class objectclasees {
+public class area {
     public static void main(String[] args) {
         student s = new student();
         s.area(5,6);
